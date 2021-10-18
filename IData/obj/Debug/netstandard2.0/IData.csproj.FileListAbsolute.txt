@@ -1,0 +1,12 @@
+C:\Users\egarcia\source\repos\MoviesApi\IData\bin\Debug\netstandard2.0\IData.deps.json
+C:\Users\egarcia\source\repos\MoviesApi\IData\bin\Debug\netstandard2.0\IData.dll
+C:\Users\egarcia\source\repos\MoviesApi\IData\bin\Debug\netstandard2.0\IData.pdb
+C:\Users\egarcia\source\repos\MoviesApi\IData\bin\Debug\netstandard2.0\Entities.dll
+C:\Users\egarcia\source\repos\MoviesApi\IData\bin\Debug\netstandard2.0\Entities.pdb
+C:\Users\egarcia\source\repos\MoviesApi\IData\obj\Debug\netstandard2.0\IData.csprojAssemblyReference.cache
+C:\Users\egarcia\source\repos\MoviesApi\IData\obj\Debug\netstandard2.0\IData.AssemblyInfoInputs.cache
+C:\Users\egarcia\source\repos\MoviesApi\IData\obj\Debug\netstandard2.0\IData.AssemblyInfo.cs
+C:\Users\egarcia\source\repos\MoviesApi\IData\obj\Debug\netstandard2.0\IData.csproj.CoreCompileInputs.cache
+C:\Users\egarcia\source\repos\MoviesApi\IData\obj\Debug\netstandard2.0\IData.csproj.CopyComplete
+C:\Users\egarcia\source\repos\MoviesApi\IData\obj\Debug\netstandard2.0\IData.dll
+C:\Users\egarcia\source\repos\MoviesApi\IData\obj\Debug\netstandard2.0\IData.pdb

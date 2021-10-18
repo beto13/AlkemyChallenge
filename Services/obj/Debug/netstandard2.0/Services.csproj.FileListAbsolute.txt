@@ -1,0 +1,14 @@
+C:\Users\egarcia\source\repos\MoviesApi\Services\bin\Debug\netstandard2.0\Services.deps.json
+C:\Users\egarcia\source\repos\MoviesApi\Services\bin\Debug\netstandard2.0\Services.dll
+C:\Users\egarcia\source\repos\MoviesApi\Services\bin\Debug\netstandard2.0\Services.pdb
+C:\Users\egarcia\source\repos\MoviesApi\Services\bin\Debug\netstandard2.0\Entities.dll
+C:\Users\egarcia\source\repos\MoviesApi\Services\bin\Debug\netstandard2.0\IData.dll
+C:\Users\egarcia\source\repos\MoviesApi\Services\bin\Debug\netstandard2.0\IData.pdb
+C:\Users\egarcia\source\repos\MoviesApi\Services\bin\Debug\netstandard2.0\Entities.pdb
+C:\Users\egarcia\source\repos\MoviesApi\Services\obj\Debug\netstandard2.0\Services.csprojAssemblyReference.cache
+C:\Users\egarcia\source\repos\MoviesApi\Services\obj\Debug\netstandard2.0\Services.AssemblyInfoInputs.cache
+C:\Users\egarcia\source\repos\MoviesApi\Services\obj\Debug\netstandard2.0\Services.AssemblyInfo.cs
+C:\Users\egarcia\source\repos\MoviesApi\Services\obj\Debug\netstandard2.0\Services.csproj.CoreCompileInputs.cache
+C:\Users\egarcia\source\repos\MoviesApi\Services\obj\Debug\netstandard2.0\Services.csproj.CopyComplete
+C:\Users\egarcia\source\repos\MoviesApi\Services\obj\Debug\netstandard2.0\Services.dll
+C:\Users\egarcia\source\repos\MoviesApi\Services\obj\Debug\netstandard2.0\Services.pdb
